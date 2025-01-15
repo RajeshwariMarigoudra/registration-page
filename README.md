@@ -27,7 +27,7 @@ Follow the steps below to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ryzmdn/registration-page.git
+git clone https://github.com/RajeshwariMarigoudra/registration-page.git
 
 # Change into the project directory
 cd registration-page
