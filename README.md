@@ -59,14 +59,3 @@ After starting the development server, you can access the application at `http:/
 - **Update UI**. Customize the layout and components to fit your design requirements.
 - **Integrate Backend**. Connect with a backend service for user data storage and authentication.
 
-## Support
-
-For any issues or inquiries, please email `riybuzniz@gmail.com`.
-
-## Feedback
-
-We value your feedback! Share your suggestions or report bugs by reaching out to `riybuzniz@gmail.com`.
-
-## License
-
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it as per your needs.
